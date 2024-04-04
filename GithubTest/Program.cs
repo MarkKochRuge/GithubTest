@@ -25,3 +25,5 @@ class Program
         Console.ReadLine();
     }
 }
+
+Console.WriteLine("Hello");
