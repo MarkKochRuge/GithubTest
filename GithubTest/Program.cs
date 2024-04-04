@@ -2,4 +2,5 @@
 Console.WriteLine("Hello, mig!");
 
 
-Console.WriteLine("Hello", 25);
+Console.WriteLine("Hello");
+
