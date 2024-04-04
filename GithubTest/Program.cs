@@ -27,3 +27,4 @@ class Program
 }
 
 Console.WriteLine("Hello");
+Console.WriteLine("Det virker ikke")
