@@ -8,5 +8,7 @@ namespace GithubTest.Test_test
 {
     internal class testclass
     {
+
+        testc classe()
     }
 }
