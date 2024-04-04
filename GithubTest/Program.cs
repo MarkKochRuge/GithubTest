@@ -26,5 +26,5 @@ class Program
     }
 }
 
-Console.WriteLine("Hello");
+Console.WriteLine("fjolleri");
 Console.WriteLine("Det virker ikke")
