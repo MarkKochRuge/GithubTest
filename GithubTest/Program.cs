@@ -1,6 +1,3 @@
-
-﻿Console.WriteLine("mark branch");
-
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, mig!");
 
@@ -31,4 +28,3 @@ class Program
 
 Console.WriteLine("Hurlumhejhus");
 Console.WriteLine("Det virker ikke")
-
