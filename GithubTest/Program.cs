@@ -26,5 +26,7 @@ class Program
     }
 }
 
+Console.WriteLine("Hej med dig");
+
 Console.WriteLine("Hurlumhejhus");
 Console.WriteLine("Det virker ikke")
