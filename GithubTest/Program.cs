@@ -5,9 +5,6 @@
 Console.WriteLine("Hello, mig!");
 
 
-
-Console.WriteLine("Hello");
-
 Console.WriteLine("Hello", 25);
 
 
@@ -34,5 +31,4 @@ class Program
 
 Console.WriteLine("Hurlumhejhus");
 Console.WriteLine("Det virker ikke")
-
 
