@@ -8,7 +8,7 @@ Console.WriteLine("Hello", 25);
 
 class Program
 {
-    static void Main(string[] args)
+    static public Main(string[] args)
     {
         Random random = new Random();
         int arrayLength = 10;
@@ -26,7 +26,6 @@ class Program
     }
 }
 
-Console.WriteLine("Hej med dig");
 
 Console.WriteLine("Hurlumhejhus");
 Console.WriteLine("Det virker ikke")
